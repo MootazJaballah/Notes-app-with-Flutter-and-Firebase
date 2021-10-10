@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "333653647416",
+    "project_id": "fech-mousel",
+    "storage_bucket": "fech-mousel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333653647416:android:a883f896505f297992c6cd",
+        "android_client_info": {
+          "package_name": "com.example.fech_mousel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333653647416-2ot7klsgd8ns6tq9m4ab96kqd2c9q1c0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fech_mousel",
+            "certificate_hash": "4b48880445ef6243f982a53f4d084a0a44c4d99a"
+          }
+        },
+        {
+          "client_id": "333653647416-av8rg98m3r5ib5i1149sfdoqp64ii2mr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJTmNhLTr1zuZN-GIkwm9565OSTJ1zzGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333653647416-av8rg98m3r5ib5i1149sfdoqp64ii2mr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
