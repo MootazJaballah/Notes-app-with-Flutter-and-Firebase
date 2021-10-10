@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Click to any image to see it in full screen !
+
 Register page : 
 ![1](https://user-images.githubusercontent.com/65428639/136716145-79d958d1-5778-4dd8-8653-9411396a904e.jpg)
 Login page :
